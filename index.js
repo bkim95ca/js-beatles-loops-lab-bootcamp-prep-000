@@ -24,7 +24,7 @@ function iLoveTheBeatles(n) {
   const love = []
   let i = 0
   do {
-    love.push('${n}!')
+    love.push('I love the Beatles!')
   } while(i < 15)
   }
 
