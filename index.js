@@ -6,5 +6,5 @@ function theBeatlesPlay(musicians, instruments) {
   }
 
   return arr
-  console.log(theBeatlesPlay)
 }
+
