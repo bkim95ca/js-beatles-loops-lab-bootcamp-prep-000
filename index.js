@@ -22,11 +22,10 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n) {
   const love = []
-  let i = 0
   do {
     love.push('I love the Beatles!')
     n++
-  } while(i < 15)
+  } while(n < 15)
   }
 
   return love
