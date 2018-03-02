@@ -19,3 +19,11 @@ function johnLennonFacts(facts) {
 
     return shoutedFacts
 }
+
+function iLoveTheBeatles(n) {
+  const love = []
+
+  do {
+    love.push('${n}!')
+  }
+}
